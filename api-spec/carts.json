@@ -38,7 +38,7 @@
 		],
 	        "responses": {
 		    "200": {
-		        "description": "Returns cart",
+		        "description": "Returns cart ",
 		        "schema": {
 			    "$ref": "#/definitions/Getcartresponse"
 			}
